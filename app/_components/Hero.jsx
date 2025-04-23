@@ -19,7 +19,7 @@ function Hero() {
       <div className="mt-4 flex justify-center gap-4 sm:mt-6">
         <a
           className="inline-block rounded border border-zinc-400 bg-zinc-600 px-5 py-3 font-medium text-white shadow-sm transition-colors hover:bg-zinc-400"
-          href="#"
+          href="/create-course"
         >
           Get Started
         </a>
