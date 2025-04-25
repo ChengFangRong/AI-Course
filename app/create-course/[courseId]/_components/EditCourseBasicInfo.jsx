@@ -47,7 +47,7 @@ const EditCourseBasicInfo = ({course, refreshData}) => {
 
   return (
     <Dialog>
-        <DialogTrigger><HiPencilSquare /></DialogTrigger>
+        <DialogTrigger> <HiPencilSquare /></DialogTrigger>
         <DialogContent>
             <DialogHeader>
             <DialogTitle>Edit Course Title & Description</DialogTitle>

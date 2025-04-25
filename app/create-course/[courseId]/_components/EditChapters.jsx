@@ -44,7 +44,7 @@ function EditChapters({course, index, refreshData}) {
 
   return (
     <Dialog>
-  <DialogTrigger><HiPencilSquare /></DialogTrigger>
+  <DialogTrigger> <HiPencilSquare /></DialogTrigger>
   <DialogContent>
     <DialogHeader>
       <DialogTitle>Edit Chapter</DialogTitle>
